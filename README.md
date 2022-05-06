@@ -12,7 +12,7 @@
 
 - 📄 Saiba mais sobre mim em **https://www.linkedin.com/in/laune-victor/**
 
-- ⚡ Curiosidades sobre mim **Treinador de Futebol licenciado pela AFA, Poker Player**
+- ⚡ Curiosidades sobre mim **Treinador de Futebol licenciado pela AFA & Poker Player**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
