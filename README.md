@@ -8,7 +8,7 @@
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 
-- 🌱 Atualmente estou aprendendo **sckit-learn e seaborn**
+- 🌱 Atualmente estou aprendendo **matplotlib e seaborn**
 
 - 📄 Saiba mais sobre mim em **https://www.linkedin.com/in/laune-victor/**
 
