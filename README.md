@@ -1,18 +1,18 @@
 <h1 align="center">Oi 👋, sou o Victor</h1>
-<h3 align="center">Cientista de Dados curioso e apaixonado por aprender coisas novas</h3>
+<h3 align="center">Analista de Dados curioso e apaixonado por aprender coisas novas</h3>
 
 
 - 🔭 Atualmente estou em **migração de carreira e buscando oportunidades**
 
 - 📫 Fale comigo em **laune.vh@gmail.com**
 
-- 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
+- 👯 Eu procuro colaborar em **projetos de análise de dados, ciência de dados e IA**
 
 - 🌱 Atualmente estou aprendendo **matplotlib e seaborn**
 
 - 📄 Saiba mais sobre mim em **https://www.linkedin.com/in/laune-victor/**
 
-- ⚡ Curiosidades sobre mim **Treinador de Futebol licenciado pela AFA & Poker Player**
+- ⚡ Curiosidades sobre mim **Sou Treinador de Futebol licenciado pela AFA & Poker Player**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
