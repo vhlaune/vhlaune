@@ -2,13 +2,13 @@
 <h3 align="center">Analista de Dados curioso e apaixonado por aprender coisas novas</h3>
 
 
-- 🔭 Atualmente estou em **migração de carreira e buscando oportunidades**
+- 🔭 Atualmente estou em **migração de carreira e buscando oportunidades na área de Engenheria de Dados**
 
 - 📫 Fale comigo em **laune.vh@gmail.com**
 
-- 👯 Eu procuro colaborar em **projetos de análise de dados, ciência de dados e IA**
+- 👯 Eu procuro colaborar em **projetos de Engenharia de Dados**
 
-- 🌱 Atualmente estou aprendendo **matplotlib e seaborn**
+- 🌱 Atualmente estou aprendendo **Modelos Dimensionais e Data Warehouses**
 
 - 📄 Saiba mais sobre mim em **https://www.linkedin.com/in/laune-victor/**
 
