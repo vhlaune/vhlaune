@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou em **migração de carreira e buscando oportunidades na área de Engenheria de Dados**
 
-- 📫 Fale comigo em **laune.vh@gmail.com**
+- 📫 Fale comigo em **victorh.laune@gmail.com**
 
 - 👯 Eu procuro colaborar em **projetos de Engenharia de Dados**
 
