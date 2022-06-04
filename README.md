@@ -6,13 +6,9 @@
 
 - 📫 Fale comigo em **victorh.laune@gmail.com**
 
-- 👯 Eu procuro colaborar em **projetos de Engenharia de Dados**
-
-- 🌱 Atualmente estou aprendendo **Modelos Dimensionais e Data Warehouses**
-
 - 📄 Saiba mais sobre mim em **https://www.linkedin.com/in/laune-victor/**
 
-- ⚡ Curiosidades sobre mim **Sou Treinador de Futebol licenciado pela AFA & Poker Player**
+- ⚡ Curiosidades sobre mim **Sou Treinador de Futebol licenciado pela AFA**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
