@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, sou o Victor</h1>
-<h3 align="center">Analista de Dados curioso e apaixonado por aprender coisas novas</h3>
 
 
 - 🔭 Atualmente estou em **migração de carreira e buscando oportunidades na área de Engenheria de Dados**
